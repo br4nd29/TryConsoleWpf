@@ -13,7 +13,7 @@ namespace TryConsole_Wpf
         {
             using(SchoolContext db = new SchoolContext())
             {
-
+                Console.WriteLine("loh");
                
 
                 foreach (Students students1 in db.Students.ToList() )
