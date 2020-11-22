@@ -16,8 +16,9 @@ namespace TryConsole_Wpf.Model
         [StringLength(50)]
         
         public string FIO { get; set; }
-        [ForeignKey("IdClassRoom")]
+     
         public int? ClassRoomId { get; set; }
+        [ForeignKey("ClassRoomId")]
         public ClassRoom ClassRoom { get; set; }
 
     }

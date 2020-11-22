@@ -1,0 +1,14 @@
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\bin\Debug\TryConsole Wpf.exe.config
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\bin\Debug\TryConsole Wpf.exe
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\bin\Debug\TryConsole Wpf.pdb
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\bin\Debug\EntityFramework.dll
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\bin\Debug\System.Data.SqlClient.dll
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\bin\Debug\EntityFramework.xml
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\bin\Debug\System.Data.SqlClient.xml
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\obj\Debug\TryConsole Wpf.csprojAssemblyReference.cache
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\obj\Debug\TryConsole Wpf.csproj.CoreCompileInputs.cache
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\obj\Debug\TryConsole Wpf.csproj.CopyComplete
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\obj\Debug\TryConsole Wpf.exe
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\obj\Debug\TryConsole Wpf.pdb

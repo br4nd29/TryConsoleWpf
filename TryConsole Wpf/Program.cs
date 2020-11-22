@@ -13,9 +13,19 @@ namespace TryConsole_Wpf
         {
             using(SchoolContext db = new SchoolContext())
             {
-                ClassRoom classRoom = new ClassRoom { ClassName = "Lol" };
-                db.ClassRooms.Add(classRoom);
-                db.SaveChanges();
+
+                foreach (ClassRoom classRoom in db.ClassRooms)
+                {
+                    Console.WriteLine(classRoom.ClassName);
+                }
+
+                foreach (Students students1 in db.Students.ToList() )
+                {
+                    Console.WriteLine($"{students1.FIO} ");
+
+                    
+                }
+                Console.ReadLine();
             }
         }
     }
