@@ -12,3 +12,6 @@ C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\obj\Debug\TryCons
 C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\obj\Debug\TryConsole Wpf.csproj.CopyComplete
 C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\obj\Debug\TryConsole Wpf.exe
 C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\obj\Debug\TryConsole Wpf.pdb
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\obj\Debug\TryConsole_Wpf.Migrations.InitialCreate.resources
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\obj\Debug\TryConsole Wpf.csproj.GenerateResource.cache
+C:\Users\FsbPoshadi\source\repos\TryConsole Wpf\TryConsole Wpf\obj\Debug\TryConsole_Wpf.Migrations.ChangeStudents.resources

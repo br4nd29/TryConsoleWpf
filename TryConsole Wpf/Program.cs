@@ -14,14 +14,12 @@ namespace TryConsole_Wpf
             using(SchoolContext db = new SchoolContext())
             {
 
-                foreach (ClassRoom classRoom in db.ClassRooms)
-                {
-                    Console.WriteLine(classRoom.ClassName);
-                }
+               
 
                 foreach (Students students1 in db.Students.ToList() )
                 {
-                    Console.WriteLine($"{students1.FIO} ");
+                    Console.WriteLine("{0} - {1}", students1.FIO, students1.ClassRoom != null ? students1.ClassRoom.ClassName : ""); 
+
 
                     
                 }
